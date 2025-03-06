@@ -68,12 +68,17 @@ Each CSV file follows predefined formatting rules:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/your-username/data-transformation-xyz.git
-2. **Install Dependencies
-bash
-Copy
-Edit
+2. **Navigate to the project directory**
+   ```bash
+   cd data-transformation-structuring-for-scalable-insights
+3. **Install dependencies**
+   ```bash
+   pip install pandas
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+5. Open and run "Data Transformation & Structuring for Scalable Insights at Company XYZ.ipynb"
 
-   
 ---
 
 ## Business Context & Problem Statement  
@@ -112,6 +117,14 @@ Company XYZ generates valuable **app event data**, but it's stored in an **unstr
 - **Standardized event processing** for app-generated data.  
 - **Ensured high-quality, structured datasets** for future analysis.  
 - **Demonstrated real-world data engineering techniques** in JSON processing.  
+
+---
+
+## Future Enhancements  
+
+- **Implementing an ETL pipeline** for automation.  
+- **Storing transformed data** in a SQL database.  
+- **Enhancing error handling** for data quality validation.
 
 ---
 
