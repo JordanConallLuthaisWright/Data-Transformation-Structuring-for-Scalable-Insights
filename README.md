@@ -67,7 +67,7 @@ Each CSV file follows predefined formatting rules:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/data-transformation-xyz.git
+   git clone https://github.com/JordanConallLuthaisWright/Data-Transformation-Structuring-for-Scalable-Insights.git
 2. **Navigate to the project directory**
    ```bash
    cd data-transformation-structuring-for-scalable-insights
